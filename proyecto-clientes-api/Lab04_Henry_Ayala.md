@@ -515,7 +515,7 @@ Closes #<número>
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<usuario>/<repositorio>.git
+git clone https://github.com/smiu9/lab_04_README.git
 cd <repositorio>
 
 # 2. Ejecutar pruebas
